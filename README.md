@@ -64,7 +64,8 @@ Advanced Retrieval: Add LLMChainExtractor with a custom prompt if compression is
 This project is licensed under the MIT License. See the LICENSE file for details.
 ## Acknowledgments
 
-Built with inspiration from a course on Coursera RAG applications using LangChain.
+Built with inspiration from a course on Coursera Langchain Chat with your won data.
+Link: https://www.coursera.org/projects/langchain-chat-with-your-data-project?
 Powered by LangChain, Hugging Face, FAISS, and Panel.
 Designed for Google Colab for easy access and experimentation.
 
